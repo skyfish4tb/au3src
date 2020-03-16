@@ -201,7 +201,7 @@ int g_nKeyCodes[NUMKEYS] =
 
 // List of Diadic characters will be updated according to keyboard layout
 //                     0   1   2   3   4   5   6   7
-char g_cDiadic [8] = {' ',' ','´','^','~','¨','`',' '};
+char g_cDiadic [8] = {' ',' ','´'','^','~','¨'','`',' '};
 
 
 ///////////////////////////////////////////////////////////////////////////////
